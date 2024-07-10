@@ -1,0 +1,7 @@
+.button{
+    font-size: 40px;
+    font-weight: 700;
+        width: 90px;
+        height: 90px;
+        min-width: 50px;
+    }
